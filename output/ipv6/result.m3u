@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xxf-1106/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.40:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-09 21:44:39
+http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="2" tvg-name="青海卫视" tvg-logo="http://10.1.0.40:5180/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
+http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="3" tvg-name="山西卫视" tvg-logo="http://10.1.0.40:5180/logo/山西卫视.png" group-title="📡卫视频道",山西卫视
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="陕西卫视" tvg-logo="http://10.1.0.40:5180/logo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
